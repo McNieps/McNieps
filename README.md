@@ -1,8 +1,8 @@
-- Hi, I’m @McNieps
-- I’m interested in pygame
-- I’m currently learning mechanical engineering
-- I’m looking to collaborate on nothing
-- Good luck trying to reach me
+- 😺 Hi, I’m @McNieps
+- 😽 I’m interested in pygame
+- 😹 I’m currently learning mechanical engineering
+- 😻 I’m looking to collaborate on FlipPlan II
+- 😼 Good luck trying to reach me
 
 <!---
 McNieps/McNieps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
